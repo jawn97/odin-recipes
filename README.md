@@ -7,3 +7,7 @@ ingredients using UL and steps to cook using OL.
 
 Need to get github page to view project on web working correctly. Currently, screen displays 404
 error. There isn't a GitHub Pages site here. 
+
+#UPDATE: jawn97.github.io/odin-recipes/ is now funcational. Error 404 gone.
+	Note: After pushing README.md to GitHub, I refreshed jawn97.github.io/odin-recipes/ and it
+	works now. 06/02/2023 10:53 AM PST.
