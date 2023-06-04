@@ -1,0 +1,26 @@
+.header{
+    color: firebrick;
+    text-align: center;
+    font-size: 42.5px;
+    border-style: ridge;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    width: 300px;
+    margin: auto;
+}
+
+p, a.lasagnaLink, a.pizookieLink, a.stirLink{
+    box-shadow: inset 0 0 10px #777777;
+    padding: 5px;
+    text-align: center;
+    box-sizing: border-box;
+    width: 300px;
+    margin: auto;
+}
+
+.align-center{ /* align the image */
+    display:block;
+    margin: 0px auto;
+    padding: 10px;
+}
+
+
