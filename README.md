@@ -13,3 +13,5 @@ error. There isn't a GitHub Pages site here.
 	works now. 06/02/2023 10:53 AM PST.
 
 #UPDATE: trying to use new meta element to scale for mobile view. 06/03/2023 9:50 PM
+
+#UPDATE: edit all recipe pages using html and css to fit theme of index page and of each other. connect recipe pages to css style sheet to receive modifications. push work to github. 06/07/2023 11:57 PM
