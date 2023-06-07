@@ -1,14 +1,14 @@
-.header{
+.indexheader, .lasagnaheader, .pizookieheader,.stirheader{
     color: firebrick;
     text-align: center;
     font-size: 42.5px;
     border-style: ridge;
-    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    font-family:'Arial Narrow Bold', sans-serif ;
     width: 300px;
     margin: auto;
 }
 
-p, a.lasagnaLink, a.pizookieLink, a.stirLink{
+.indexlinks, .lasagnaLink, .pizookieLink, .stirLink{
     box-shadow: inset 0 0 10px #777777;
     padding: 5px;
     text-align: center;
@@ -22,5 +22,17 @@ p, a.lasagnaLink, a.pizookieLink, a.stirLink{
     margin: 0px auto;
     padding: 10px;
 }
+
+.ingredientsandsteps-center, .ulContainer, .olContainer, .enjoy,.stirDesc{
+    text-align: center;
+}
+
+.lasagnaUL, .lasagnaOL, .pizookieUL, .pizookieOL,.stirUL, .stirOL{
+    display: inline-block;
+    text-align: center;
+}
+
+
+
 
 
