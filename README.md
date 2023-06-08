@@ -15,4 +15,5 @@ error. There isn't a GitHub Pages site here.
 #UPDATE: trying to use new meta element to scale for mobile view. 06/03/2023 9:50 PM
 #UPDATE: learned about boxes in html and css, stylized recipe pages using style.css and index page a bit more to practice. Replaced images in recipe pages to accomodate mobile view.
 #UPDATE: edit all recipe pages using html and css to fit theme of index page and of each other. connect recipe pages to css style sheet to receive modifications. push work to github. 06/07/2023 11:57 PM
+#UPDATE: remove mobile view aspirations from all html files. will get back to that when the time is right. remove instances not showing display:block. 06/08/2023 4:19 pm.
 #UPDATE: modified recipe pages using html and css to practice boxes and selectors. replaced images in recipe pages to accomodate mobile view. push work to github. 06/08/2023 4:00 pm
