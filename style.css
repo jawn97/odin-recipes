@@ -3,18 +3,21 @@
     text-align: center;
     font-size: 42.5px;
     border-style: ridge;
-    font-family:'Arial Narrow Bold', sans-serif ;
-    width: 300px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 400px;
     margin: auto;
+    background-color:lemonchiffon;
 }
 
 .indexlinks, .lasagnaLink, .pizookieLink, .stirLink{
     box-shadow: inset 0 0 10px #777777;
-    padding: 5px;
+    padding: 10px;
     text-align: center;
     box-sizing: border-box;
     width: 300px;
     margin: auto;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:lemonchiffon;
 }
 
 .align-center{ /* align the image */
@@ -25,11 +28,32 @@
 
 .ingredientsandsteps-center, .ulContainer, .olContainer, .enjoy,.stirDesc{
     text-align: center;
+    padding: 10px;
+    background-color:lemonchiffon;
+    border-style: ridge;
+    margin: 10px 500px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
 }
 
 .lasagnaUL, .lasagnaOL, .pizookieUL, .pizookieOL,.stirUL, .stirOL{
     display: inline-block;
     text-align: center;
+    padding: 10px;
+    
+}
+
+.lasagnaDesc,.pizookieDesc, #foodsDesc p{ /* use class selector twice and id selector targets any p elements within id selector */
+    border-style: ridge;
+    background-color:lemonchiffon;
+    padding: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.lasagnaDesc, .pizookieDesc{
+    text-align: center;
+    margin: 10px 582px;
+
 }
 
 
