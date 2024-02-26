@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+  color:whitesmoke;
+  background-color: red;
+  font-family:monospace;
+  font-weight:bold;
+}
+div.container {
+  text-align: center;
+}
+ul.recipes-List{
+  display: inline-block;
+}
