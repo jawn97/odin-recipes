@@ -4,10 +4,22 @@ h1 {
   background-color: orange;
   font-family:monospace;
   font-weight:bold;
+  border: solid 2px red;
 }
-div.container {
+.container {
   text-align: center;
 }
-ul.recipes-List{
+.recipes-List{
   display: inline-block;
+  list-style: none;
+  margin-top: -5px;
+  padding-left: 0px;
+  background-color:beige;
+  border: solid 2px red;
+  width: 400px;
+}
+.list-element{
+  padding: 10px;
+  border: solid 5px orange;
+  font-family: monospace;
 }
